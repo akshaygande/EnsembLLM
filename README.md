@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Ensemble_LLM
-=======
 # EnsembleLLM
 
 ## ⚠️ Model Weights Not Included in GitHub
