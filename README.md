@@ -65,6 +65,3 @@ The model is public, so no authentication is required for download. If you wish 
    ```
 
 ---
-
-For any issues, please open an issue on GitHub or contact the maintainer. 
->>>>>>> 2d9ee0e (Initial commit: code, config, and instructions (excluding large model files))
