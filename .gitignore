@@ -1,0 +1,13 @@
+*.safetensors
+*.index.json
+result.pdf
+tokenizer.json
+tokenizer.model
+special_tokens_map.json
+tokenizer_config.json
+merged_folder/
+OGNO-7B/
+jaskier-7b-dpo-v5.6/
+.venv/
+__pycache__/
+
