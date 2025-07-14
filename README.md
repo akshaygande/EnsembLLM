@@ -75,7 +75,6 @@ EnsembLLM/
 ├── app.py                # Streamlit web app for chat demo
 ├── config.yaml           # Example merge configuration
 ├── requirements.txt      # Python dependencies
-├── upload_to_hf.py       # Script to upload models to Hugging Face
 ├── merged_folder/        # (Ignored) Downloaded or generated model weights
 ├── mergekit/             # Model merging toolkit (submodule or vendored)
 │   ├── mergekit/         # Core library code
