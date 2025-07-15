@@ -20,6 +20,18 @@ Instead, you can easily download the merged model from the Hugging Face Hub (see
 - **Extensible**: Add new merge methods, evaluation tasks, or model architectures.
 
 ---
+### 🔗 Hugging Face Spaces
+
+You can try the model live without setup using our hosted demo:
+
+▶️ **[Launch the Web Demo →](https://huggingface.co/spaces/Akshaygande/EnsembleLLM)**
+
+- Powered by 🤗 [Hugging Face Spaces](https://huggingface.co/spaces)
+- Built with **Gradio** and **Transformers**
+- Runs the merged model locally in the Space for full custom control
+- Ideal for testing, demos, or sharing with others
+
+---
 
 ## 🚀 Quickstart
 
